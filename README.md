@@ -1,0 +1,1 @@
+*patika 3. ödev*
