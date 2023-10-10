@@ -1,0 +1,22 @@
+ li {
+    list-style-position: inside;
+
+}
+h1, h2, h3, p, address {
+    text-align: center;
+    color: brown;
+}
+
+body {
+    background-color:#FFF8C9;
+}
+strong {
+    font-size: 22px;
+}
+th {
+    background-color: blueviolet;
+}
+.elain {
+    width: 100px; 
+    text-align: center;
+}
